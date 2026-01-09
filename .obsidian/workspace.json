@@ -6,6 +6,7 @@
       {
         "id": "e7686c7aeab9b329",
         "type": "tabs",
+        "dimension": 39.7456279809221,
         "children": [
           {
             "id": "8943143e9ad9bf51",
@@ -15,13 +16,52 @@
               "state": {
                 "file": "Motorcycle World Mindmap.canvas",
                 "viewState": {
-                  "x": -174.5,
-                  "y": -122,
-                  "zoom": -3.141865416841031
+                  "x": -1976.2323459210384,
+                  "y": -3477.1667418853476,
+                  "zoom": 0.5248012498256356
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "Motorcycle World Mindmap"
+            }
+          },
+          {
+            "id": "ab4a301b526e1ee1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AVA MC Notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AVA MC Notes"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "dd88765d7de2f106",
+        "type": "tabs",
+        "dimension": 60.254372019077906,
+        "children": [
+          {
+            "id": "51cd1959b07ffeb4",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "AVA MC Mindmap.canvas",
+                "viewState": {
+                  "x": 2571.1947742139723,
+                  "y": 1909.360934629454,
+                  "zoom": 0.6666666666666665
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "AVA MC Mindmap"
             }
           }
         ]
@@ -97,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Motorcycle World Mindmap.canvas",
+                "file": "AVA MC Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Motorcycle World Mindmap"
+              "title": "Backlinks for AVA MC Notes"
             }
           },
           {
@@ -116,12 +156,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Motorcycle World Mindmap.canvas",
+                "file": "AVA MC Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Motorcycle World Mindmap"
+              "title": "Outgoing links from AVA MC Notes"
             }
           },
           {
@@ -159,13 +199,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Motorcycle World Mindmap.canvas",
+                "file": "AVA MC Notes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Motorcycle World Mindmap"
+              "title": "Outline of AVA MC Notes"
             }
           }
         ]
@@ -186,10 +226,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "8943143e9ad9bf51",
+  "active": "ab4a301b526e1ee1",
   "lastOpenFiles": [
-    "Motorcycle World Mindmap.png",
+    "AVA MC Mindmap.canvas",
+    "AVA MC Notes.md",
     "Motorcycle World Mindmap.canvas",
+    "Motorcycle World Mindmap.png",
     "Welcome.md"
   ]
 }
