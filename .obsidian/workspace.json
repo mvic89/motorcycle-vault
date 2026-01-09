@@ -1,0 +1,195 @@
+{
+  "main": {
+    "id": "6065c48e72f12bd9",
+    "type": "split",
+    "children": [
+      {
+        "id": "e7686c7aeab9b329",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8943143e9ad9bf51",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Motorcycle World Mindmap.canvas",
+                "viewState": {
+                  "x": -174.5,
+                  "y": -122,
+                  "zoom": -3.141865416841031
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Motorcycle World Mindmap"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6a10767784a3840a",
+    "type": "split",
+    "children": [
+      {
+        "id": "c1c730949d63554d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "39c85f4d022a95d5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c6abdb798673262d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c0528c47107d7244",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1b9318455e0410ab",
+    "type": "split",
+    "children": [
+      {
+        "id": "774dd718a233fae8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4365db19349c4d15",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Motorcycle World Mindmap.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Motorcycle World Mindmap"
+            }
+          },
+          {
+            "id": "36be22986a3cecb9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Motorcycle World Mindmap.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Motorcycle World Mindmap"
+            }
+          },
+          {
+            "id": "9ac7fbb8868d1099",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "3c087466a90d9866",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "2a0548fc8dd2a3fd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Motorcycle World Mindmap.canvas",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Motorcycle World Mindmap"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "8943143e9ad9bf51",
+  "lastOpenFiles": [
+    "Motorcycle World Mindmap.png",
+    "Motorcycle World Mindmap.canvas",
+    "Welcome.md"
+  ]
+}
