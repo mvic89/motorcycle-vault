@@ -8,7 +8,7 @@ Then we look if the bike that the customer is interested in is inside the local 
 ##### How does the system work when the customer buys a motorcycle?
 1. We create an order for the customer (if the customer has been test driving the MC, then the info is already provided.)
 2. If we have the MC in store, then we look for it inside the database. if not then we create a preorder where we order a stock pile of MC's (preferably in different colors) from the brands ordering system which we have authorized connection to (we can also preorder spare parts from these sites.) (every brand has it's own ordering site). (all of the MC sales are made out of preorders)
-3. AVA MC provides bike insurance, which they set the price for. If the customer doesn't like it. they can apply for insurance themselves (14 days right to withdraw). The most common insurance companies are: 'Bilsport & MC', and 'Swedea'.
+3. AVA MC provides bike insurance, which they set the price for. If the customer doesn't like it. they can apply for insurance themselves (14 days right to withdraw). The most common insurance companies are: 'Bilsport & MC', and 'Svedea'.
 4. The MC is registered to transportstyrelsen (through 'Bilvision'). 'Bilvision' is used for registration and bike information. you can see who has owned the bike and whether there's still credit debt connected to the bike.
 5. Warranties is registered for 18 months.
 6. Down payment through 'LF Finans'. AVA MC takes 20% for the bikes down payment. They also contact 'LF Finans' to see whether or not the customer is good for the down payment (whether or not they can afford it.)
