@@ -6,7 +6,7 @@
       {
         "id": "dd88765d7de2f106",
         "type": "tabs",
-        "dimension": 72.00488997555013,
+        "dimension": 50.57915057915058,
         "children": [
           {
             "id": "70f2e55cf1e4fad4",
@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anteckningar inför torsdag 29-1.md",
+                "file": "Notes/AVA MC Anteckningar 28-1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Anteckningar inför torsdag 29-1"
+              "title": "AVA MC Anteckningar 28-1"
             }
           }
         ]
@@ -27,7 +27,7 @@
       {
         "id": "8f8b0ad3e0288312",
         "type": "tabs",
-        "dimension": 27.995110024449875,
+        "dimension": 49.42084942084942,
         "children": [
           {
             "id": "b28cb7dc0102f2d1",
@@ -207,11 +207,12 @@
   },
   "active": "70f2e55cf1e4fad4",
   "lastOpenFiles": [
-    "System Requirements & Pain points.canvas",
     "Anteckningar inför torsdag 29-1.md",
-    "Notes/AVA MC Seller Notes Tuesday 13-1.md",
-    "AVA MC Mindmap.canvas",
+    "Notes/AVA MC Anteckningar 28-1.md",
+    "System Requirements & Pain points.canvas",
     "AVA MC Notes.md",
+    "AVA MC Mindmap.canvas",
+    "Notes/AVA MC Seller Notes Tuesday 13-1.md",
     "Notes/AVA MC Seller Notes Final Draft.md",
     "Notes/AVA MC Seller Notes Thursday 15-1.md",
     "Notes/AVA MC Försäljningsanteckningar Tisdag 13-1.md",
