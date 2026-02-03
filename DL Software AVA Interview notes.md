@@ -179,4 +179,87 @@ Kawasaki skickar en 'order confirmation' tillbaka till AVA.
 
 Modellprodukt är själva hjärtat
 
-DL Software AVA 1 7min45sek
+Modellprodukt skapas i Blå Modul (Produkt).
+
+Modellprodukt är som en kategori för märkena där det läggs in olika underkategorier för lagerhållning. Så! varje märke har sin egen modellprodukt. I modellprodukten finns kategorier som:
+- Reservdelar
+- MC (Nya MC's som AVA äger) 
+- Personlig utrustning (hjälm handskar skor etc.) (Monica beställer in sånt)
+- Vattenskoter (inget AVA säljer längre)
+- MC i kommision (MC's som märkena har i lager hos AVA men som AVA inte äger ännu).
+
+Varje underkategori har sin egen lagersektion. 
+
+Klickar du inte på t.ex. Kawasaki's modelprodukt för reservdelar så kan du se var i lager dom hålls och hur många det finns.
+
+Detta är ett bra system för att kunna hålla koll på varje märke's lagerhållning och hur mycket av varje märkes produkter som finns i lager.
+
+Monica skaper desssa modellprodukter för varje märke.
+
+När hon skapar en modellprodukt så finns det även klasser som beskriver om modellprodukten:
+- Ny
+- Begagnad
+- Reservdelar
+- Personlig utrustning
+- Service
+- GENERAL
+
+Om Monica väljer Personlig utrustning som modell produkt så kan hon även lägga till grupper, som t.ex.:
+- 510 Skinn
+- 510-10 Handskar
+- 510-20 Jackor
+- 510-30 Byxor
+- 510-40 Ställ
+- 520 Textil
+Hon kan skriva in numret (510-10 t.ex. om hon vill skapa en modell prdukt för handskar) i grupp inmatningsfältet (input field)
+
+ - Typ: Lager (för lagerhållning)
+ - Klass: Personlig utrustning
+ - Grupp: 510-30 (Byxor)
+
+När Monica skapar en ny modellprodukt (jacka t.ex.) så måste hon trycka på 'kopiera' knappen och komma till en ny sida där hon:
+- Skriver in ny kod
+- Skriver in 'Försäljningspris' och 'Inköpspris'. (Försäljningspris är det pris på varan för kunden. Inköpspris är det pris dom köper in varan för (fr. distrubitören (märket)))
+- Skriver in namnet på produkten
+
+Om monica skapar en modellprodukt för 'jacka' så måste dessa fält vara ifyllda:
+ - Typ: Lager (för lagerhållning)
+ - Klass: Personlig utrustning
+ - Grupp: 510-30 (Byxor)
+ - Matris: 10 (antalet Byxor)
+
+Viktigt att veta är att om hon ska skapa en modellprodukt för Jacka så måste det vara inom gruppen 'Jacka' (510-20).
+
+Om hon skapar en modellprodukt för Motorcykel så behöver hon endast skriva in:
+- Typ: Lager
+- Klass: 10 (Ny)
+- Grupp: 110 (MC)
+- Matris: 2 (antalet MC's)
+
+Sen trycker hon på 'kopiera' knappen som går till den nya sidan.
+Sen letar hon upp den utskrivna fakturan med motorcykeln's 6 sista siffror som hon söker på.
+
+Hon skriver in koden för motorcykeln.
+Hon skriver in försäljningspris och inköpspris på motorcykeln. Kommer hon inte ihåg priset så kolla hon Motorcykelmärkets prislista (Kawasaki i det här fallet.)
+
+DL räknar sedan ut vad dom tjänar (i %) efter uträkning på inköpspris - försäljningspris.
+
+Sen skriver hon in namnet på motorcykeln och namnet på modellprodukten ändras.
+
+Sen trycker hon på kopiera knappen (och modellprodukten för motocykel är skapad). En pop-up med frågan: 'produkten kopierad, vill du kopiera fler produkter?' dyker upp. ifall hon vill kopiera in fler modellprodukter från fakturan så gör hon om samma process igen.
+
+I 'lager' fliken så kan hon se vilken lager sektion modellprodukten är i, och ändra den ifall det är fel. Ny motorcykel ska ligga i 'Lager nytt fordon'
+
+Klickar man på blå lager knapp i lager fliken så kommer en lista med alla lager sektion upp:
+- Kod: VAR1 Beskrivning: Lager nya fordon
+- Kod: VAR2 Beskrivning: Lager beg. fordon momsplikt
+- Kod: VAR3 Beskrivning: Lager beg. fordon VMB
+- Kod: VAR4 Beskrivning: Lager reservdelar tillbehör
+- Kod: VAR5 Beskrivning: Lager personlig utrustning
+- Kod: VAR6 Beskrivning: Lager beg. båtar & motorer VMB (AVA lagerhåller inte båtar och motorer, dessa kategorier är skapade av DL).
+- Kod: VAR7 Beskrivning: Lager demo/leasing
+- Kod: VAR8 Beskrivning: Lager kommision & säljuppdrag
+
+Lager sidan är kopplad till bokföringsprogrammet
+
+16min50sek
