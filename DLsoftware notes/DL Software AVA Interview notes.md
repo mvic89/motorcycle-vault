@@ -250,16 +250,73 @@ Sen trycker hon på kopiera knappen (och modellprodukten för motocykel är skap
 
 I 'lager' fliken så kan hon se vilken lager sektion modellprodukten är i, och ändra den ifall det är fel. Ny motorcykel ska ligga i 'Lager nytt fordon'
 
-Klickar man på blå lager knapp i lager fliken så kommer en lista med alla lager sektion upp:
+Klickar man på blå lager knapp i lager fliken så kommer en lista med alla lager sektioner upp:
 - Kod: VAR1 Beskrivning: Lager nya fordon
 - Kod: VAR2 Beskrivning: Lager beg. fordon momsplikt
-- Kod: VAR3 Beskrivning: Lager beg. fordon VMB
+- Kod: VAR3 Beskrivning: Lager beg. fordon VMB (Vinstmarginalbeskattning)
 - Kod: VAR4 Beskrivning: Lager reservdelar tillbehör
 - Kod: VAR5 Beskrivning: Lager personlig utrustning
 - Kod: VAR6 Beskrivning: Lager beg. båtar & motorer VMB (AVA lagerhåller inte båtar och motorer, dessa kategorier är skapade av DL).
 - Kod: VAR7 Beskrivning: Lager demo/leasing
-- Kod: VAR8 Beskrivning: Lager kommision & säljuppdrag
+- Kod: VAR8 Beskrivning: Lager kommision & säljuppdrag (Denna Lager sektion gäller MC's AVA inte äger. Så t.ex. ett säljuppdrag där AVA MC lagerhåller en privatpersons MC så medans dom säljer den åt dom.) (Kommision är om motorcykel finns i AVA's lager, men att dom inte äger den ännu.)
 
-Lager sidan är kopplad till bokföringsprogrammet
+Lager sidan är kopplad till ett konto i bokföringsprogrammet
 
-16min50sek
+Fordon med momsplikt är vad Monica kallar för 'tax-living vehicles'.
+
+Ett 'tax-living' fordon är när ett företag har köpt en ny motorcykel och säljer den till AVA begagnad. (VAR2 Lager begagnat fordon med momsplikt). Företaget har alltså skyldighet att redovisa momsen (därav momsplikt)
+Om en privatperson köper en motorcykel och säljer den till AVA begagnad så är den 'Tax-dead'.
+
+Olika produkter och tjänster har olika moms satser. (6%, 12% och 25%).
+
+När AVA MC beställt en MC åt kund från t.ex. Kawasaki så står i Kommision sektionen av lagret fram tills att fakturan är betald och tills den sålts till kund. Men! om en kund skulle ändra sig så måste Monica manuellt ändra lager sektion från 'Kommision' till 'VAR1 Lager nya fordon', Eftersom fakturan har betalts och är i AVA's ägo. (Detta händer oerhört sällan men faktum kvarstår att varje produkt måste manuellt läggas in i rätt lager sektion.)
+
+Tillsist i produktmodellen av motorcykel så skriver hon in vilken tillverkare det är. (Kawasaki i det här fallet.)
+
+----
+##### Beställning av Reservdelar
+
+23min DL Software AVA Part 1
+
+När AVA har beställt reservdelar från t.ex. Kawasaki och dom har skickat en faktura (via mail) som Monica skrivit ut. Så går Fredde (Servicetekniker) in på 'Mottagning av produkt' (Blå modul).
+
+I faktura så finns det inköpsorder nummer för varje reservdel. Monica söker efter reservdelarna via order numret för att sedan spara ned dom som mottagna. så att systemet vet att dom reservdelarna som har levererats även har sparats ner som mottagna. Även detta görs manuellt av Monica.
+
+Monica har ett filtersystem (Alternativ sök mottagning) där hon kan söka efter delar av alla 'öppet mottagna' reservdelar (fråga henne vad 'öppet mottagna' contra 'stängt mottagna' betyder? (behövs inte, kollat upp det nu!)) genom att trycka 'SHIFT + F3'. Då kommer en ruta upp där hon söker efter reservdelen baserat på en liten del av ordernumret. (slipper hon skriva in hela).
+
+Varje faktura är indelat i en första sida med motorcykeln och en andra sida med reservdelar + kläder till motorcykeln på sida 1.
+
+
+Efter Monica har stängt mottagning av produkter, så går in på 'underhåll av faktura' i blå modul (inköpsorder).
+Får att få upp fakturan så söker hon efter den via 'mottagningsnumret'. Därefter skriver hon in:
+- Betalningsdatum (due date)
+- Fakturanummer (Fakturadatum)
+- Att siffrorna för varukostnaden + totalkostnaden stämmer
+
+Sedan går Monica in på 'underhåll av faktura' i turkos modul (Ink.reskontra) (Distributör). Hon skriver in fakturanumret för att få upp fakturan. I fakturan så finns det ett res.kontra nummer som Monica måste skriva upp för bokföringen.
+##### Vad betyder **res.kontra-nummer**?
+
+**Res.kontra** = **reskontra**  
+Res.kontra-nummer = **löpnummer/ID på en post i reskontran**
+
+Alltså:  
+👉 **ett unikt nummer som identifierar en specifik kund- eller leverantörsfaktura** i systemet.
+
+Nu skapar Monica en faktura genom att trycka på F6 (Monicas custrom shortcuts). För att registrera den pappersfaktura som hon har fått av leverantören.
+
+Hon använder även F-nummer knapparna för att toggla genom olika inmatningsfält i fakturan.
+
+I Fakturan skriver hon in:
+- Fakturanummer (Fakturadatum)
+- Betalningsdaturm (due date)
+- Produkt (Produktnamn på Motorcykeln)
+- Mängd (hur många?)
+- Pris
+- Rabatt (No?)
+Sen trycker hon på OK och därefter visas produktuppgifter upp (som räknar inköpspris och försäljningspris + vinstmarginalen i %)
+
+Om hon har fler än en motorcykel som måste skrivas in så klickar hon på 'tilläggs' knappen och skriver in nästa produkt (motorcykel) i fakturan. (produktnamn, mängd, pris etc.)
+
+Sen trycker hon på 'Save' för att spara fakturan (eller trycka på F8)
+
+F12 är en kortkommando knapp som Monica använder för att välja vilka inmatningsfält som används (den en true / false logik) (false fälten är låsta). På det här sättet kan man skräddarsy fälten efter sina egna användingsområden (servicepersonalen använder vissa inmatningsfält medans monica använder andra inmatningsfält.) (BRA LÖSNING SOM VI KAN HA I ÅTANKE!)

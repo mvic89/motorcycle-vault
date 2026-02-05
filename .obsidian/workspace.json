@@ -13,7 +13,27 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DL Software AVA Interview notes.md",
+                "file": "DLsoftware notes/Mottagning av produkt & Öppen vs. Stängd produkt.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mottagning av produkt & Öppen vs. Stängd produkt"
+            }
+          }
+        ]
+      },
+      {
+        "id": "6834ac095849452b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9f9f08b313d94834",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DLsoftware notes/DL Software AVA Interview notes.md",
                 "mode": "source",
                 "source": false
               },
@@ -185,12 +205,16 @@
   },
   "active": "acaf711360b4c0f9",
   "lastOpenFiles": [
-    "Notes/AVA MC Anteckningar 28-1.md",
-    "DL Software AVA Interview notes.md",
+    "DLsoftware notes/DL Software AVA Interview notes.md",
+    "DLsoftware notes/Mottagning av produkt & Öppen vs. Stängd produkt.md",
+    "DLsoftware notes/Tax-living vs. Tax-Dead Motorcycles..md",
+    "DLsoftware notes/Vanliga fallgropar inom Dlsoftware (och hur du undviker dom).md",
+    "DLsoftware notes",
     "Anteckningar inför torsdag 29-1.md",
+    "System Requirements & Pain points.canvas",
+    "Notes/AVA MC Anteckningar 28-1.md",
     "Notes/AVA MC Seller Notes Final Draft.md",
     "Notes/AVA MC Försäljningsanteckningar Tisdag 13-1.md",
-    "System Requirements & Pain points.canvas",
     "AVA MC Notes.md",
     "AVA MC Mindmap.canvas",
     "Notes/AVA MC Seller Notes Tuesday 13-1.md",
