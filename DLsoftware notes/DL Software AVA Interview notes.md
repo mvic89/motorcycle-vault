@@ -320,3 +320,54 @@ Om hon har fler än en motorcykel som måste skrivas in så klickar hon på 'til
 Sen trycker hon på 'Save' för att spara fakturan (eller trycka på F8)
 
 F12 är en kortkommando knapp som Monica använder för att välja vilka inmatningsfält som används (den en true / false logik) (false fälten är låsta). På det här sättet kan man skräddarsy fälten efter sina egna användingsområden (servicepersonalen använder vissa inmatningsfält medans monica använder andra inmatningsfält.) (BRA LÖSNING SOM VI KAN HA I ÅTANKE!)
+
+-------------
+Monica brukar scrolla igenom fakturorna så att marginalen från inköpspris / försäljningspris alltid ligger på plus.
+
+Monica kollar även igenom fakturorna för att se ifall motorcyklarna har sålts, så att hon kan betala av fakturan till distrubitörerna.
+
+Monica kollar även upp marginalerna på inköpspris / försäljningspris när hon skapar en inköpsorder.
+
+Inköpsorder visar:
+- Produktkod (Kolla upp vad detta betyder)
+- Beskrivning (av varan)
+- Mängd (antal av det som har beställts)
+- Totalt mottaget (antal som har mottagits) (beställningsvaror skickas inte alltid samtidigt) (inköpsordern är öppen tills att allt har skickats).
+- Totalt fakturerat (Kolla upp vad detta betyder).
+- Pris
+- Netto (Pris innan moms)
+- Totalt (Pris + moms)
+
+DL Software Part 2 4min visar bild på fakturorna.
+
+----
+##### Beställning hos MC märkes portalerna
+
+- Monica loggar in på portalens hemsida.
+-  Hon beställer hem t.ex. en Jacka i Small, Medium & Large, lägger dom i Kundkorgen, Trycker på beställningsknappen.
+- Sedan får hon en 'ordersbekräftelse' skickad till sig (är det mail eller till DL? Kolla upp det).
+- Sedan går hon in på 'Inmata inköpsorder'. Trycker på F3 som gör att hon kan söka på rätt leverantör ('Sök Leverantör') (ARTE i det här fallet).
+- När hon har rätt leverantör uppe så kan hon trycka på F3 för att söka efter rätt 'Jackmodeller'
+- En lista kommer upp med alla Jackmodeller. Vi kan se om produktenfinns i:
+	- I lager (0.00 eller 1.00 eller fler)
+	- Enh.Pris (moms) (pris + moms eller?)
+	- SALES_PRODUCT (?)
+	- TOTAL_SALES (?)
+	- Hyllpats (SKYDD i det här fallet)
+	- Kod (550)
+	- Beskrivning (Skydd)
+	- WEB_ (?)
+	- Leveranskod (?) (50007)
+	- Lagerkod (VAR5)
+- I listan finns även något som kallas för 'Presentationsprodukt' (Kod 994). Varje produkt har sin egen Presenationsprodukt. Presentationsprodukt innehåller alla storlekar av en jacka i en viss färg. Den har en bild inlagd med text som kopplas till hemsidan. (Be Monica visa hur det här fungerar igen, Hur kopplar hon ihop dom beställda jackorna med presentationsprodukten.)
+- Kod som har + före siffrorna (+D001) är såkallade paket (däck packet i det här fallet.) Paketet innehåller däcken + service på framhjul och bakhjul
+
+Det finns paketpris för Service också. 100mil service paket för viss motorcykel & årsmodell, 1000 mil service paket för viss motorcykel & årsmodell etc. Så exakt det som behöver servas för en viss motorcykel är inlagd det där paketet (service + beställnings av delar).
+
+Motorcykel märkena bestämmer direktiven kring vad för service som görs på vilka motorcyklar och AVA måste följa dessa direktiv. Det måste AVA ha i åtanke när dom utformar dessa service-paket.
+
+Det är väldigt viktigt för Monica att alla produkter faller inom rätt beskrivning (kategori). Att däck är inom 'däck' beskrivningen och att jackor faller inom 'skydd' beskrivningen. Detta gör det lätt för Monica att sortera och scrolla igenom kategorierna.
+
+Om det fattas storlekar av en viss vara så beställer Monica det (t.ex om det fattas en XL storlek av en viss jacka).
+
+Ibland får hon även in beställning från en kund som har betalat i förskott, där hon behöver beställa in det som kunden har betalat för.

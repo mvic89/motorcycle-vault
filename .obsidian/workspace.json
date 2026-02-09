@@ -13,12 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DLsoftware notes/Mottagning av produkt & Öppen vs. Stängd produkt.md",
+                "file": "DLsoftware notes/DL Software AVA Interview notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mottagning av produkt & Öppen vs. Stängd produkt"
+              "title": "DL Software AVA Interview notes"
+            }
+          },
+          {
+            "id": "2032f5436a4f3751",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.7"
             }
           }
         ]
@@ -33,12 +45,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DLsoftware notes/DL Software AVA Interview notes.md",
+                "file": "Notes/AVA MC Anteckningar 28-1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DL Software AVA Interview notes"
+              "title": "AVA MC Anteckningar 28-1"
             }
           }
         ]
@@ -205,16 +217,16 @@
   },
   "active": "acaf711360b4c0f9",
   "lastOpenFiles": [
+    "Notes/AVA MC Anteckningar 28-1.md",
     "DLsoftware notes/DL Software AVA Interview notes.md",
     "DLsoftware notes/Mottagning av produkt & Öppen vs. Stängd produkt.md",
+    "Anteckningar inför torsdag 29-1.md",
+    "Notes/AVA MC Försäljningsanteckningar Tisdag 13-1.md",
     "DLsoftware notes/Tax-living vs. Tax-Dead Motorcycles..md",
     "DLsoftware notes/Vanliga fallgropar inom Dlsoftware (och hur du undviker dom).md",
     "DLsoftware notes",
-    "Anteckningar inför torsdag 29-1.md",
     "System Requirements & Pain points.canvas",
-    "Notes/AVA MC Anteckningar 28-1.md",
     "Notes/AVA MC Seller Notes Final Draft.md",
-    "Notes/AVA MC Försäljningsanteckningar Tisdag 13-1.md",
     "AVA MC Notes.md",
     "AVA MC Mindmap.canvas",
     "Notes/AVA MC Seller Notes Tuesday 13-1.md",
