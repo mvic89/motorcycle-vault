@@ -359,15 +359,29 @@ DL Software Part 2 4min visar bild på fakturorna.
 	- WEB_ (?)
 	- Leveranskod (?) (50007)
 	- Lagerkod (VAR5)
-- I listan finns även något som kallas för 'Presentationsprodukt' (Kod 994). Varje produkt har sin egen Presenationsprodukt. Presentationsprodukt innehåller alla storlekar av en jacka i en viss färg. Den har en bild inlagd med text som kopplas till hemsidan. (Be Monica visa hur det här fungerar igen, Hur kopplar hon ihop dom beställda jackorna med presentationsprodukten.)
+- I listan finns även något som kallas för 'Presentationsprodukt' (Kod 994). Varje produkt har sin egen Presenationsprodukt. Presentationsprodukt innehåller alla storlekar av en jacka i en viss färg. Den har en bild inlagd med text som kopplas till hemsidan. Tydligen så kryssas dom beställda jackorna ihop med presentationsprodukt så att antalet kan visas på hemsidan. (Be Monica visa hur det här fungerar igen, Hur kopplar hon ihop dom beställda jackorna med presentationsprodukten.)
 - Kod som har + före siffrorna (+D001) är såkallade paket (däck packet i det här fallet.) Paketet innehåller däcken + service på framhjul och bakhjul
 
 Det finns paketpris för Service också. 100mil service paket för viss motorcykel & årsmodell, 1000 mil service paket för viss motorcykel & årsmodell etc. Så exakt det som behöver servas för en viss motorcykel är inlagd det där paketet (service + beställnings av delar).
 
 Motorcykel märkena bestämmer direktiven kring vad för service som görs på vilka motorcyklar och AVA måste följa dessa direktiv. Det måste AVA ha i åtanke när dom utformar dessa service-paket.
 
-Det är väldigt viktigt för Monica att alla produkter faller inom rätt beskrivning (kategori). Att däck är inom 'däck' beskrivningen och att jackor faller inom 'skydd' beskrivningen. Detta gör det lätt för Monica att sortera och scrolla igenom kategorierna.
+Monica kan kolla upp exakt vad för Service som måste göras på en viss specifik MC genom att:
+ - Kopiera produktid'et
+ - Öpnnar Serviceorder modulen (Röd)
+ - Hon trycker på F6 för att öppna en beställning
+ - Öpnna Sök för att lägga till Kassakund.
+ - Sedan lägger hon in produktid'et för MC'n
+ - Sedan kommer en lista upp med all service som måste göras på denna specifika MC och vad det kommer att kosta.
+
+Det är väldigt viktigt för Monica att alla produkter faller inom rätt beskrivning (kategori). Att däck är inom 'däck' beskrivningen och att jackor faller inom 'skydd' beskrivningen. Detta gör det lätt för Monica att sortera och scrolla igenom kategorierna. Göran och Fredde glömmer ibland bort att lägga till beskrivning när dom lägger in en ny artikel / vara.
 
 Om det fattas storlekar av en viss vara så beställer Monica det (t.ex om det fattas en XL storlek av en viss jacka).
 
 Ibland får hon även in beställning från en kund som har betalat i förskott, där hon behöver beställa in det som kunden har betalat för.
+
+------
+Toni är oftast den som lägger upp Motorcyklarna manuellt på Blocket. (Kolla med honom hur det fungerar.)
+
+------
+Om en kund har köpt en MC men vill byta in sin MC mot en annan modell / nyare modell, Hur registrerar Monica det? 
