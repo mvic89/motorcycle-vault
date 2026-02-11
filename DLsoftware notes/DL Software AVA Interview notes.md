@@ -384,4 +384,55 @@ Ibland får hon även in beställning från en kund som har betalat i förskott,
 Toni är oftast den som lägger upp Motorcyklarna manuellt på Blocket. (Kolla med honom hur det fungerar.)
 
 ------
-Om en kund har köpt en MC men vill byta in sin MC mot en annan modell / nyare modell, Hur registrerar Monica det? 
+Om en kund har köpt en MC men vill byta in sin MC mot en annan modell / nyare modell, Hur registrerar Monica det? (Kolla upp det med henne.) Tydligen så när hon söker på en motorcykels registreringsnummer så kan man se hur många gånger den har bytits in och omregistrerats till ett nytt lager. D.v.s när MC'n är ny och säljs till kund så registreras den för första gången. Sen när kunden lämnar tillbaka MC'n för en ny MC (eller om dom vill få den såld av AVA) så omregistreras den igen och läggs in i en annan lagersektion (läggs till ett #1 efter registreringsnumret). Denna process kan en motorcykel gå igenom ett flertal gånger. På så sätt kan du se dens resa från kund till kund över tid via endast en sökning på registreringsnumret. Du kan se allt ifrån:
+- När motorcykeln har köpts och när den har sålts.
+- Vad motorcykeln har köpts för (köpespris) och vad den har sålts för (säljespris)
+(OBS! VÄLDIGT OTYMPLIGT! Borde gå att göra lättare.)
+
+Inköpsorder (produkt), Försäljningsorder (underhåll av order (rosa modul)), och Serviceorder (röd modul) har nästan samma UI struktur.
+
+Lennart frågar Monica om hur man kollar försäljnings-statistiken i DLsoftware. Då går du in i statistik-fliken (lila modul). statistik fliken är uppdelad i tre kategorier: Händelse, Kund & Produkt.
+I produktfliken har du 'Försäljare / Produktstatistik'. Där kan du skriva in produkt information från -> till ett visst datum för att se hur mycket som har sålts under en viss period. Du kan ta reda på statistik från:
+- Försäljare > Försäljare
+- Produkt > Produkt
+- Produktklass > Produktklass
+- Grupp > Grupp
+- Område > Område
+- Kund > Kund
+- Kundklass > Kundklass
+- Leverantör > Leverantör
+- Datum > Datum
+- Kostnadställe? > Kostnadställe?
+- Lager > Lager
+- Leveransvilkor > Levaransvilkor
+- Leveransdatum > Leveransdatum
+- Vår referens (?) > Vår referens (?)
+
+I Serviceorders (rödmodul) Rapportflik så kan du söka efter Serviceordrar på samma sätt som du söker efter produktstatistik. 
+
+-----
+##### Söka på kund i kundregistret
+
+Gå in på Kund (försäljning) (rosa modul). Där kan du söka på registrerad kund baserat på efternman om du vill. Kund har allt ifrån:
+- Namn
+- Adress
+- Email
+- Telefon
+- Födelsedatum / Person.nr
+- Grunduppgifter (Privatperson, Kön, Betalningsvillkor, Leveransvillkor etc.)
+
+Det finns även en 'Historik' knapp som du kan trycka på. Där kan du se all typ av historik relaterat till kunden. t.ex. Faktura-, betalnings- och orderhistorik.
+
+
+--------
+##### Skapa ny kund och registrera fordon på kund.
+
+Det kan hända att samma kund är har flera kund nummer, eftersom dom skrivits in på nytt efter köp av motorcykel. Därför måste Monica manuellt skriva in och ändra den gamla kunden till ny kund med korrekta uppgifter. (genom att förena det gamla kundnumret med det nya.)
+
+Det finns en bilvision knapp som visar upp fordonets registrering när du trycker på den. (Det kostar dock pengar att använda Bilvision knappen.) (Kolla med Monica exakt vad den knappen gör.)
+
+En kund ska inte kunna ha 3 olika kundnummer kopplade till sig. Det överkomplicerar när Monica söker på kund. En kund ska vara kopplat till ett kundnummer. Då blir det även enklare att se hur ofta en kund har varit och servat sin MC hos AVA.
+
+Därför är det viktigt att alltid fråga kunden ifall dom har varit hos AVA tidigare, så att dom kan se ifall kunden finns i systemet.
+
+Service personaler är enligt Monica lite lata, och söker endast efter registreringsnumret på fordonet och trycker sedan på Bilvisionsknappen istället för att söka efter kundnumret.
