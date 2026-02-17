@@ -16,4 +16,6 @@ When Monica registers the incoming products and changes the product id to an art
 
 It's hard to do inventory if the storage goods aren't properly categorized. Categorization also makes it easier to search for products in the system. (wheels for instance.)
 
-Gunnar normally doesn't order MC's through a purchase order, but through phone / email instead. That way, Monica gets an invoice without a purchase number (name only) which makes it complicated for Monica and the Service personel to find whom the vehicle belongs to in the system. It also makes it harder to change from order number > VIN number > register number.
+According to Monica: Gunnar normally doesn't order MC's through a purchase order, but through phone / email instead. That way, Monica gets an invoice without a purchase number (name only) which makes it complicated for Monica and the Service personel to find whom the vehicle belongs to in the system. It also makes it harder to change from order number > VIN number > register number.
+
+AVA Seller Notes 28-1 is where Gunnar explains how he orders motorcycles.
