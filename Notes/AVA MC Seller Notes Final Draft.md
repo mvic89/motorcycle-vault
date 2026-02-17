@@ -22,7 +22,7 @@
 - If the customer agrees, then AVA MC books the bike for an evaluation. (Customer comes in with the bike? or do AVA MC come by the customer to retrieve it?)
 - The mechanics take a look at the overall condition of the vehicle (by taking photos of it), look up service information and fixes what needs to be fixed.
 - The customer then receives a price offer with all the documented changes + the costs withdrawn from the price.
-- If the customer accepts the deal, then a 'sales agreement' is signed and the money is paid out (Right on the spot? or through a bank transaction?)
+- If the customer accepts the deal, then a 'sales agreement' is signed and the money is paid out (Right on the spot? or through a bank transaction?) /bank transaction
 - Registration, insurance and delivery of the traded in bike occurs when it's sold to a new customer.
 - If the customer trades in the bike for another bike, then they pay the difference.
 - If the customer wants AVA MC to sell the bike for them, then AVA MC takes out a deposit for the sale, advertise it but doesn't take ownership of it. (that's on the customer until the bike has been sold.)
@@ -40,7 +40,7 @@ It's important that there's no scratches or dents on the used motorcycle when it
 ---
 ##### Additional notes
 
-When you trade in the motorcycle, the state of the vehicle is checked (tire wear, service documents etc.). With newer bikes, AVA takes a look at the receipts and double checks with the brand if service has been done. (every brand has their own service database).
+When you trade in the motorcycle, the state of the vehicle is checked (tire wear, service documents etc.). With newer bikes, AVA takes a look at the receipts and double checks with the brand if service has been done. (every brand has their own service database). AVA har sin egna servicebok där dom kan se motocykelns service historik.
 
 When the customer wants AVA MC to sell their bike for them, the customer is registered on the bike until it's been sold. AVA MC doesn't take ownership of the bike but helps out with finding potential buyers and advertising the bike on Blocket. (In extension their own website.)
 
