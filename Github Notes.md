@@ -1,0 +1,1 @@
+ChatGPT rekommenderar mig att använda PR (Pull Request) Reviews istället för en 'developer-branch' eftersom PR review ihop med Vercel gör en 'Internal Testing' med en länk till branchen som testas. Därav behöver tydligen inte feature-branchen merge'as in till developer-branch för internal testing.
