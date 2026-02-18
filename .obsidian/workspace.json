@@ -4,47 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "bb6d63736a36b2ff",
+        "id": "4416e2300198a4fa",
         "type": "tabs",
         "children": [
           {
-            "id": "8330ca4f4bae5563",
+            "id": "18498ad5d5665126",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Github Notes.md",
-                "mode": "source",
-                "source": false
+                "file": "Images/Pasted image 20260218145030.png"
               },
-              "icon": "lucide-file",
-              "title": "Github Notes"
+              "icon": "lucide-image",
+              "title": "Pasted image 20260218145030"
             }
-          }
-        ]
-      },
-      {
-        "id": "331405938111e192",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "21e0a74c2e2d6045",
+            "id": "fd49e9560677b3b9",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "DL Software Mindmap.canvas",
+                "file": "Journey Maps & Core flows.canvas",
                 "viewState": {
-                  "x": -238,
-                  "y": 1958.9888787602551,
-                  "zoom": -3.1420991432382994
+                  "x": 1397.528127492818,
+                  "y": 8058.5720968795395,
+                  "zoom": -0.9815741875657134
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "DL Software Mindmap"
+              "title": "Journey Maps & Core flows"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -206,11 +199,24 @@
       "bases:Create new base": false
     }
   },
-  "active": "39c85f4d022a95d5",
+  "active": "fd49e9560677b3b9",
   "lastOpenFiles": [
+    "Images/Pasted image 20260218145030.png",
+    "Images/Pasted image 20260218171408.png",
+    "Journey Maps & Core flows.canvas",
+    "Images/Pasted image 20260218171349.png",
+    "Images/Pasted image 20260218171328.png",
+    "Images/Pasted image 20260218171304.png",
+    "Images/Pasted image 20260218171244.png",
+    "Images/Pasted image 20260218171205.png",
+    "Images/Pasted image 20260218171105.png",
+    "Images/Pasted image 20260218170904.png",
+    "Images/Pasted image 20260218170805.png",
+    "Images/Pasted image 20260218170736.png",
+    "Journey maps & Coreflows.md",
     "DL Software Mindmap.canvas",
-    "Notes/AVA MC Anteckningar 28-1.md",
     "Github Notes.md",
+    "Notes/AVA MC Anteckningar 28-1.md",
     "Notes/AVA MC Seller Notes 28-1.md",
     "Notes/AVA MC Försäljningsanteckningar Tisdag 13-1.md",
     "Notes/AVA MC Seller Notes Thursday 12-2.md",
@@ -222,13 +228,7 @@
     "DLsoftware notes/DL Software AVA Interview notes.md",
     "AVA MC Mindmap.canvas",
     "DLsoftware notes/Vanliga fallgropar inom Dlsoftware (och hur du undviker dom).md",
-    "Motorcycle World Mindmap.png",
     "AVA MC Notes.md",
-    "Images/Pasted image 20260211173420.png",
-    "Images/Pasted image 20260211174119.png",
-    "Images/Pasted image 20260211173742.png",
-    "Images/Pasted image 20260211173456.png",
-    "Images/Pasted image 20260211173304.png",
     "Images",
     "Anteckningar inför torsdag 29-1.md",
     "DLsoftware notes/Tax-living vs. Tax-Dead Motorcycles..md",
