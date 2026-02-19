@@ -4,27 +4,42 @@
     "type": "split",
     "children": [
       {
-        "id": "ff7677fa4421dbd6",
+        "id": "ec7b9823670a124f",
         "type": "tabs",
         "children": [
           {
-            "id": "c66e598f13ff764d",
+            "id": "4b993a282bd6a256",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/AVA MC Seller Notes Thursday 15-1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AVA MC Seller Notes Thursday 15-1"
+            }
+          },
+          {
+            "id": "b1a1ae0dc4c36a78",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Journey Maps & Core flows.canvas",
                 "viewState": {
-                  "x": -3833.5582014403185,
-                  "y": 2002.349844901355,
-                  "zoom": -2.9999999999999996
+                  "x": -3323.3448258335893,
+                  "y": 2795.074455573671,
+                  "zoom": -0.12774699416863677
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "Journey Maps & Core flows"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -186,10 +201,25 @@
       "bases:Create new base": false
     }
   },
-  "active": "c66e598f13ff764d",
+  "active": "b1a1ae0dc4c36a78",
   "lastOpenFiles": [
-    "Images/Pasted image 20260219105308.png",
+    "Motorcycle World Mindmap.png",
+    "System Requirements & Pain points.canvas",
+    "DLsoftware notes/DL Software AVA Interview notes.md",
+    "DLsoftware notes/Mottagning av produkt & Öppen vs. Stängd produkt.md",
+    "DLsoftware notes/Tax-living vs. Tax-Dead Motorcycles..md",
+    "Key things Customer wants to know before committing.md",
     "Journey Maps & Core flows.canvas",
+    "Notes/AVA MC Seller Notes 28-1.md",
+    "Notes/AVA MC Seller Notes Thursday 12-2.md",
+    "Notes/AVA MC Seller Notes Thursday 15-1.md",
+    "Notes/AVA MC Seller Notes Final Draft.md",
+    "Untitled.canvas",
+    "Notes/AVA MC Seller Notes Tuesday 13-1.md",
+    "Notes/AVA MC Försäljningsanteckningar Tisdag 13-1.md",
+    "DL Software Mindmap.canvas",
+    "AVA MC Notes.md",
+    "Images/Pasted image 20260219105308.png",
     "Images/Pasted image 20260219112114.png",
     "Images/Pasted image 20260219112047.png",
     "Images/Pasted image 20260219112023.png",
@@ -198,27 +228,13 @@
     "Images/Pasted image 20260219111840.png",
     "Images/Pasted image 20260219111726.png",
     "Images/Pasted image 20260219111654.png",
-    "Images/Pasted image 20260219111620.png",
-    "Images/Pasted image 20260219111546.png",
     "Journey maps & Coreflows.md",
-    "DL Software Mindmap.canvas",
     "Github Notes.md",
     "Notes/AVA MC Anteckningar 28-1.md",
-    "Notes/AVA MC Seller Notes 28-1.md",
-    "Notes/AVA MC Försäljningsanteckningar Tisdag 13-1.md",
-    "Notes/AVA MC Seller Notes Thursday 12-2.md",
-    "Notes/AVA MC Seller Notes Thursday 15-1.md",
-    "Notes/AVA MC Seller Notes Tuesday 13-1.md",
-    "Notes/AVA MC Seller Notes Final Draft.md",
-    "System Requirements & Pain points.canvas",
-    "DLsoftware notes/Mottagning av produkt & Öppen vs. Stängd produkt.md",
-    "DLsoftware notes/DL Software AVA Interview notes.md",
     "AVA MC Mindmap.canvas",
     "DLsoftware notes/Vanliga fallgropar inom Dlsoftware (och hur du undviker dom).md",
-    "AVA MC Notes.md",
     "Images",
     "Anteckningar inför torsdag 29-1.md",
-    "DLsoftware notes/Tax-living vs. Tax-Dead Motorcycles..md",
     "DLsoftware notes",
     "Notes",
     "Motorcycle World Mindmap.canvas",
