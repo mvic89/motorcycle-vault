@@ -6,6 +6,7 @@
       {
         "id": "ec7b9823670a124f",
         "type": "tabs",
+        "dimension": 58.267090620031794,
         "children": [
           {
             "id": "4b993a282bd6a256",
@@ -13,14 +14,36 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/AVA MC Seller Notes Thursday 15-1.md",
+                "file": "Notes/AVA MC Seller Notes Final Draft.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AVA MC Seller Notes Thursday 15-1"
+              "title": "AVA MC Seller Notes Final Draft"
             }
           },
+          {
+            "id": "f9b4a9de9ba0cfb0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/AVA MC Seller Notes 28-1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AVA MC Seller Notes 28-1"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "a905783709c77092",
+        "type": "tabs",
+        "dimension": 41.732909379968206,
+        "children": [
           {
             "id": "b1a1ae0dc4c36a78",
             "type": "leaf",
@@ -29,17 +52,16 @@
               "state": {
                 "file": "Journey Maps & Core flows.canvas",
                 "viewState": {
-                  "x": -3323.3448258335893,
-                  "y": 2795.074455573671,
-                  "zoom": -0.12774699416863677
+                  "x": -3305.7029019162414,
+                  "y": 2916.7098749842703,
+                  "zoom": -0.6666666666666663
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "Journey Maps & Core flows"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -203,17 +225,17 @@
   },
   "active": "b1a1ae0dc4c36a78",
   "lastOpenFiles": [
+    "Key things Customer wants to know before committing.md",
+    "Journey Maps & Core flows.canvas",
+    "Notes/AVA MC Seller Notes 28-1.md",
+    "Notes/AVA MC Seller Notes Final Draft.md",
+    "Notes/AVA MC Seller Notes Thursday 12-2.md",
+    "Notes/AVA MC Seller Notes Thursday 15-1.md",
     "Motorcycle World Mindmap.png",
     "System Requirements & Pain points.canvas",
     "DLsoftware notes/DL Software AVA Interview notes.md",
     "DLsoftware notes/Mottagning av produkt & Öppen vs. Stängd produkt.md",
     "DLsoftware notes/Tax-living vs. Tax-Dead Motorcycles..md",
-    "Key things Customer wants to know before committing.md",
-    "Journey Maps & Core flows.canvas",
-    "Notes/AVA MC Seller Notes 28-1.md",
-    "Notes/AVA MC Seller Notes Thursday 12-2.md",
-    "Notes/AVA MC Seller Notes Thursday 15-1.md",
-    "Notes/AVA MC Seller Notes Final Draft.md",
     "Untitled.canvas",
     "Notes/AVA MC Seller Notes Tuesday 13-1.md",
     "Notes/AVA MC Försäljningsanteckningar Tisdag 13-1.md",
