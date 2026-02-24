@@ -6,7 +6,6 @@
       {
         "id": "ec7b9823670a124f",
         "type": "tabs",
-        "dimension": 58.267090620031794,
         "children": [
           {
             "id": "4b993a282bd6a256",
@@ -14,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/AVA MC Seller Notes Final Draft.md",
+                "file": "Notes/AVA MC Seller Notes 28-1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AVA MC Seller Notes Final Draft"
+              "title": "AVA MC Seller Notes 28-1"
             }
           },
           {
@@ -35,26 +34,53 @@
               "icon": "lucide-file",
               "title": "AVA MC Seller Notes 28-1"
             }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "a905783709c77092",
-        "type": "tabs",
-        "dimension": 41.732909379968206,
-        "children": [
+          },
+          {
+            "id": "3c334dfa39bac968",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Purchase list vs. Purchase Order (PO).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Purchase list vs. Purchase Order (PO)"
+            }
+          },
           {
             "id": "b1a1ae0dc4c36a78",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OEM systems & dealership DMS systems.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "OEM systems & dealership DMS systems"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "c08c6fe6ae77be8f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4be8497f8deed85b",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Journey Maps & Core flows.canvas",
                 "viewState": {
-                  "x": -3305.7029019162414,
-                  "y": 2916.7098749842703,
-                  "zoom": -0.6666666666666663
+                  "x": -3374.7721561853427,
+                  "y": 3450.4731938956934,
+                  "zoom": -0.003558660025184124
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -118,7 +144,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321.5
+    "width": 569.5
   },
   "right": {
     "id": "1b9318455e0410ab",
@@ -223,13 +249,18 @@
       "bases:Create new base": false
     }
   },
-  "active": "b1a1ae0dc4c36a78",
+  "active": "3c334dfa39bac968",
   "lastOpenFiles": [
-    "Key things Customer wants to know before committing.md",
-    "Journey Maps & Core flows.canvas",
+    "Pre-order vs. Purchase Order (PO).md",
+    "Purchase list vs. Purchase Order (PO).md",
     "Notes/AVA MC Seller Notes 28-1.md",
-    "Notes/AVA MC Seller Notes Final Draft.md",
     "Notes/AVA MC Seller Notes Thursday 12-2.md",
+    "Journey Maps & Core flows.canvas",
+    "OEM systems & dealership DMS systems.md",
+    "Notes/AVA MC Seller Notes Final Draft.md",
+    "DL Software Mindmap.canvas",
+    "Key things Customer wants to know before committing.md",
+    "Motorcycle World Mindmap.canvas",
     "Notes/AVA MC Seller Notes Thursday 15-1.md",
     "Motorcycle World Mindmap.png",
     "System Requirements & Pain points.canvas",
@@ -239,7 +270,6 @@
     "Untitled.canvas",
     "Notes/AVA MC Seller Notes Tuesday 13-1.md",
     "Notes/AVA MC Försäljningsanteckningar Tisdag 13-1.md",
-    "DL Software Mindmap.canvas",
     "AVA MC Notes.md",
     "Images/Pasted image 20260219105308.png",
     "Images/Pasted image 20260219112114.png",
@@ -259,7 +289,6 @@
     "Anteckningar inför torsdag 29-1.md",
     "DLsoftware notes",
     "Notes",
-    "Motorcycle World Mindmap.canvas",
     "Welcome.md"
   ]
 }
