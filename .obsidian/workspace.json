@@ -4,138 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "ec7b9823670a124f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "4b993a282bd6a256",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/AVA MC Seller Notes Final Draft.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "AVA MC Seller Notes Final Draft"
-            }
-          },
-          {
-            "id": "3c334dfa39bac968",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Purchase list vs. Purchase Order (PO).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Purchase list vs. Purchase Order (PO)"
-            }
-          },
-          {
-            "id": "ac0aa58b422ade96",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Differences between Pre-orders & Purchase Orders Part 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Differences between Pre-orders & Purchase Orders Part 1"
-            }
-          },
-          {
-            "id": "b1a1ae0dc4c36a78",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OEM systems & dealership DMS systems.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "OEM systems & dealership DMS systems"
-            }
-          },
-          {
-            "id": "69183ad7fecc49fa",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "System Requirements & Pain points.canvas",
-                "viewState": {
-                  "x": -520,
-                  "y": 630,
-                  "zoom": -0.9245779662141802
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "System Requirements & Pain points"
-            }
-          }
-        ]
-      },
-      {
         "id": "c08c6fe6ae77be8f",
         "type": "tabs",
+        "dimension": 40.485312899106,
         "children": [
           {
-            "id": "4be8497f8deed85b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Invoice problems when there's no Purchase Order.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Invoice problems when there's no Purchase Order"
-            }
-          },
-          {
-            "id": "b4cad77ffafa5ccf",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Mindmaps/DL Software Mindmap.canvas",
-                "viewState": {
-                  "x": -684.4242601221546,
-                  "y": -490.6325702493285,
-                  "zoom": -0.6012020174191466
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "DL Software Mindmap"
-            }
-          },
-          {
-            "id": "b6c735f09b753273",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Journey Maps & Core flows.canvas",
-                "viewState": {
-                  "x": -3451.569226975759,
-                  "y": 3287.237086479319,
-                  "zoom": -0.6666666666666663
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Journey Maps & Core flows"
-            }
-          },
-          {
-            "id": "f9b4a9de9ba0cfb0",
+            "id": "c732a774fcc80cb8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -149,21 +23,73 @@
             }
           },
           {
-            "id": "35097692f64a3f8a",
+            "id": "416de15b4b32f0ec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lennarts Vision for our software to the motorcycle industry.md",
+                "file": "Anteckningar inför onsdag 25-2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lennarts Vision for our software to the motorcycle industry"
+              "title": "Anteckningar inför onsdag 25-2"
+            }
+          },
+          {
+            "id": "40e39961345f26f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Insurance, registration, warranty structure part 3 (Structured standard MC sales process).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Insurance, registration, warranty structure part 3 (Structured standard MC sales process)"
+            }
+          },
+          {
+            "id": "667d761abbb1952c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/AVA MC Seller Notes 28-1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AVA MC Seller Notes 28-1"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
+      },
+      {
+        "id": "a66c7d161c4a85d2",
+        "type": "tabs",
+        "dimension": 59.514687100893994,
+        "children": [
+          {
+            "id": "35097692f64a3f8a",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Journey Maps & Core flows.canvas",
+                "viewState": {
+                  "x": -2046.6576055090156,
+                  "y": 2980.7240375041224,
+                  "zoom": -0.12774699416863677
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Journey Maps & Core flows"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -220,7 +146,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 745.5
+    "width": 310.5
   },
   "right": {
     "id": "1b9318455e0410ab",
@@ -328,36 +254,37 @@
   "active": "35097692f64a3f8a",
   "lastOpenFiles": [
     "Anteckningar inför onsdag 25-2.md",
-    "Lennarts Vision for our software to the motorcycle industry.md",
-    "Insurance, registration, warranty structure part 3 (Structured standard MC sales process).md",
-    "Insurance, registration, warranty structure part 2.md",
-    "Differences between Pre-orders & Purchase Orders Part 2.md",
-    "Insurance, registration, warranty structure part 1.md",
-    "Notes/AVA MC Seller Notes Tuesday 13-1.md",
     "Journey Maps & Core flows.canvas",
-    "Notes/AVA MC Seller Notes Final Draft.md",
-    "Notes/AVA MC Seller Notes Thursday 12-2.md",
-    "Github Notes.md",
+    "Insurance, registration, warranty structure part 2.md",
     "Notes/AVA MC Seller Notes 28-1.md",
+    "Notes/AVA MC Seller Notes Tuesday 13-1.md",
+    "Notes/AVA MC Seller Notes Thursday 15-1.md",
+    "Notes/AVA MC Försäljningsanteckningar Tisdag 13-1.md",
+    "Notes/AVA MC Seller Notes Thursday 12-2.md",
+    "DLsoftware notes/DL Software AVA Interview notes.md",
+    "Mindmaps/DL Software Mindmap.canvas",
+    "Insurance, registration, warranty structure part 1.md",
+    "Insurance, registration, warranty structure part 3 (Structured standard MC sales process).md",
+    "Notes/AVA MC Seller Notes Final Draft.md",
+    "DLsoftware notes/Tax-living vs. Tax-Dead Motorcycles..md",
+    "Notes/AVA MC Anteckningar 28-1.md",
+    "Mindmaps/AVA MC Mindmap.canvas",
+    "Mindmaps/AVA MC Notes.md",
+    "Mindmaps/Motorcycle World Mindmap.canvas",
+    "Lennarts Vision for our software to the motorcycle industry.md",
+    "Differences between Pre-orders & Purchase Orders Part 2.md",
+    "Github Notes.md",
     "Differences between Pre-orders & Purchase Orders Part 1.md",
     "Pre-order vs. Purchase Order (PO).md",
     "Invoice problems when there's no Purchase Order.md",
-    "Mindmaps/DL Software Mindmap.canvas",
     "System Requirements & Pain points.canvas",
-    "Mindmaps/Motorcycle World Mindmap.canvas",
-    "Mindmaps/AVA MC Mindmap.canvas",
     "Mindmaps",
     "OEM systems & dealership DMS systems.md",
     "Purchase list vs. Purchase Order (PO).md",
     "Key things Customer wants to know before committing.md",
-    "Notes/AVA MC Seller Notes Thursday 15-1.md",
     "Mindmaps/Motorcycle World Mindmap.png",
-    "DLsoftware notes/DL Software AVA Interview notes.md",
     "DLsoftware notes/Mottagning av produkt & Öppen vs. Stängd produkt.md",
-    "DLsoftware notes/Tax-living vs. Tax-Dead Motorcycles..md",
     "Untitled.canvas",
-    "Notes/AVA MC Försäljningsanteckningar Tisdag 13-1.md",
-    "Mindmaps/AVA MC Notes.md",
     "Images/Pasted image 20260219105308.png",
     "Images/Pasted image 20260219112114.png",
     "Images/Pasted image 20260219112047.png",
@@ -368,8 +295,6 @@
     "Images/Pasted image 20260219111726.png",
     "Images/Pasted image 20260219111654.png",
     "Journey maps & Coreflows.md",
-    "Notes/AVA MC Anteckningar 28-1.md",
-    "DLsoftware notes/Vanliga fallgropar inom Dlsoftware (och hur du undviker dom).md",
     "Images",
     "DLsoftware notes",
     "Notes"
