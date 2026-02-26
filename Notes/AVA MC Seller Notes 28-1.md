@@ -1,4 +1,4 @@
-Gunnar has an overview of which motorcycles they have ordered through Kawasaki’s dealer portal, for example. He contacts them by email if he has a customer who wants a motorcycle by a specific date. If the motorcycle is in the pre-order list, he may check whether it can be delivered on the date the customer wants.
+Gunnar has an overview of which motorcycles they have ordered through Kawaki’s dealer portal, for example. He contacts them by email if he has a customer who wants a motorcycle by a specific date. If the motorcycle is in the pre-order list, he may check whether it can be delivered on the date the customer wants.
 
 Otherwise, Gunnar orders the motorcycle via pre-order.
 

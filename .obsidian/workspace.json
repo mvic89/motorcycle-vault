@@ -28,12 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anteckningar inför onsdag 25-2.md",
+                "file": "Insurance Quotes, Policy terms and Pre-approved customer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Anteckningar inför onsdag 25-2"
+              "title": "Insurance Quotes, Policy terms and Pre-approved customer"
             }
           },
           {
@@ -63,9 +63,26 @@
               "icon": "lucide-file",
               "title": "AVA MC Seller Notes 28-1"
             }
+          },
+          {
+            "id": "3e8a4dff866db82c",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "System Requirements & Pain points.canvas",
+                "viewState": {
+                  "x": -813.3391167192427,
+                  "y": 1118.5630914826493,
+                  "zoom": -0.009073583625462178
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "System Requirements & Pain points"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       },
       {
         "id": "a66c7d161c4a85d2",
@@ -78,18 +95,36 @@
             "state": {
               "type": "canvas",
               "state": {
+                "file": "Andrews Figma Design Structure.canvas",
+                "viewState": {
+                  "x": -3170.242812198715,
+                  "y": -2443.229182487164,
+                  "zoom": 3.3306690738754696e-16
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Andrews Figma Design Structure"
+            }
+          },
+          {
+            "id": "033ae7710fa94f2a",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
                 "file": "Journey Maps & Core flows.canvas",
                 "viewState": {
-                  "x": -2046.6576055090156,
-                  "y": 2980.7240375041224,
-                  "zoom": -0.12774699416863677
+                  "x": 180.06604346462882,
+                  "y": -149.16903641560975,
+                  "zoom": -2.470784423452844
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "Journey Maps & Core flows"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -251,23 +286,26 @@
       "bases:Create new base": false
     }
   },
-  "active": "35097692f64a3f8a",
+  "active": "033ae7710fa94f2a",
   "lastOpenFiles": [
-    "Anteckningar inför onsdag 25-2.md",
+    "Andrews Figma Design Structure.canvas",
     "Journey Maps & Core flows.canvas",
-    "Insurance, registration, warranty structure part 2.md",
+    "System Requirements & Pain points.canvas",
+    "Insurance Quotes, Policy terms and Pre-approved customer.md",
+    "Anteckningar inför onsdag 25-2.md",
     "Notes/AVA MC Seller Notes 28-1.md",
-    "Notes/AVA MC Seller Notes Tuesday 13-1.md",
+    "Notes/AVA MC Anteckningar 28-1.md",
     "Notes/AVA MC Seller Notes Thursday 15-1.md",
-    "Notes/AVA MC Försäljningsanteckningar Tisdag 13-1.md",
     "Notes/AVA MC Seller Notes Thursday 12-2.md",
+    "Insurance, registration, warranty structure part 2.md",
+    "Notes/AVA MC Seller Notes Tuesday 13-1.md",
+    "Notes/AVA MC Försäljningsanteckningar Tisdag 13-1.md",
     "DLsoftware notes/DL Software AVA Interview notes.md",
     "Mindmaps/DL Software Mindmap.canvas",
     "Insurance, registration, warranty structure part 1.md",
     "Insurance, registration, warranty structure part 3 (Structured standard MC sales process).md",
     "Notes/AVA MC Seller Notes Final Draft.md",
     "DLsoftware notes/Tax-living vs. Tax-Dead Motorcycles..md",
-    "Notes/AVA MC Anteckningar 28-1.md",
     "Mindmaps/AVA MC Mindmap.canvas",
     "Mindmaps/AVA MC Notes.md",
     "Mindmaps/Motorcycle World Mindmap.canvas",
@@ -277,14 +315,12 @@
     "Differences between Pre-orders & Purchase Orders Part 1.md",
     "Pre-order vs. Purchase Order (PO).md",
     "Invoice problems when there's no Purchase Order.md",
-    "System Requirements & Pain points.canvas",
     "Mindmaps",
     "OEM systems & dealership DMS systems.md",
     "Purchase list vs. Purchase Order (PO).md",
     "Key things Customer wants to know before committing.md",
     "Mindmaps/Motorcycle World Mindmap.png",
     "DLsoftware notes/Mottagning av produkt & Öppen vs. Stängd produkt.md",
-    "Untitled.canvas",
     "Images/Pasted image 20260219105308.png",
     "Images/Pasted image 20260219112114.png",
     "Images/Pasted image 20260219112047.png",
@@ -294,7 +330,6 @@
     "Images/Pasted image 20260219111840.png",
     "Images/Pasted image 20260219111726.png",
     "Images/Pasted image 20260219111654.png",
-    "Journey maps & Coreflows.md",
     "Images",
     "DLsoftware notes",
     "Notes"
