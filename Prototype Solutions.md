@@ -16,3 +16,11 @@ On this page form site, you'll have:
 When you've book a test drive or apply interest in the bike, that's when your information get's sent to AVA's Business system as a Lead with customer information.
 
 In the business system, it should be easy for both gunnar and Toni to create an offer (offert) and send it to the customer. (How much can be automated in this process?)
+
+---
+Create a prototype of a webpage with cards of MC's. When you click into a MC card, you go another page where you have Images of the bike, detailed product information about the bike and specs. Insurance cost calculator (where customer can enter basic info for personilized quotes). and a financing calculator + explanations of payment terms.
+
+If you're interested in this bike, there's a button that let's you Register interest with BankID (or E-mail). If email is used then you need to provide name, last name, adress etc.
+
+you'll also be able to book rides on the bike with bankID (or email if you don't have any bankID).
+

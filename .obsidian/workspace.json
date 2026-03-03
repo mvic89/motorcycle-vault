@@ -6,7 +6,7 @@
       {
         "id": "c08c6fe6ae77be8f",
         "type": "tabs",
-        "dimension": 33.810091378625344,
+        "dimension": 26.16780045351474,
         "children": [
           {
             "id": "c732a774fcc80cb8",
@@ -72,8 +72,8 @@
               "state": {
                 "file": "System Requirements & Pain points.canvas",
                 "viewState": {
-                  "x": -344.16239833598394,
-                  "y": 337.06721604596004,
+                  "x": -544.4179188407159,
+                  "y": 828.1460803992724,
                   "zoom": -0.0090735836254624
                 }
               },
@@ -87,7 +87,7 @@
       {
         "id": "c51cd3454ca80f91",
         "type": "tabs",
-        "dimension": 23.281684545093366,
+        "dimension": 30.9297052154195,
         "children": [
           {
             "id": "033ae7710fa94f2a",
@@ -95,12 +95,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prototype Solutions.md",
+                "file": "Prototype prompt notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Prototype Solutions"
+              "title": "Prototype prompt notes"
             }
           }
         ]
@@ -108,7 +108,7 @@
       {
         "id": "a66c7d161c4a85d2",
         "type": "tabs",
-        "dimension": 42.908224076281286,
+        "dimension": 42.90249433106576,
         "children": [
           {
             "id": "35097692f64a3f8a",
@@ -118,8 +118,8 @@
               "state": {
                 "file": "Andrews Figma Design Structure.canvas",
                 "viewState": {
-                  "x": -3037.7372022463123,
-                  "y": -2297.5853706800253,
+                  "x": -2940.723281404407,
+                  "y": -2301.3651338297104,
                   "zoom": 0.6666666666666667
                 }
               },
@@ -135,9 +135,9 @@
               "state": {
                 "file": "Journey Maps & Core flows.canvas",
                 "viewState": {
-                  "x": -1677.2533575754098,
-                  "y": 453.95177971010156,
-                  "zoom": -0.09175175506752875
+                  "x": -3582.1636024505838,
+                  "y": 1075.952175048375,
+                  "zoom": -0.42508508840086207
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -202,8 +202,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 310.5,
-    "collapsed": true
+    "width": 310.5
   },
   "right": {
     "id": "1b9318455e0410ab",
@@ -310,9 +309,10 @@
   },
   "active": "033ae7710fa94f2a",
   "lastOpenFiles": [
-    "Journey Maps & Core flows.canvas",
     "Prototype Solutions.md",
+    "Journey Maps & Core flows.canvas",
     "Andrews Figma Design Structure.canvas",
+    "Prototype prompt notes.md",
     "System Requirements & Pain points.canvas",
     "Notes/AVA MC Seller Notes Final Draft.md",
     "Insurance, registration, warranty structure part 1.md",
@@ -341,7 +341,6 @@
     "Mindmaps",
     "OEM systems & dealership DMS systems.md",
     "Purchase list vs. Purchase Order (PO).md",
-    "Key things Customer wants to know before committing.md",
     "Mindmaps/Motorcycle World Mindmap.png",
     "Images/Pasted image 20260219105308.png",
     "Images/Pasted image 20260219112114.png",
