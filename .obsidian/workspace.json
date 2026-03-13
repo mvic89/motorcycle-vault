@@ -12,12 +12,17 @@
             "id": "033ae7710fa94f2a",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "canvas",
               "state": {
-                "file": "Images/Pasted image 20260313123035.png"
+                "file": "BikeMeNow Architecture.canvas",
+                "viewState": {
+                  "x": 1143.4950092255533,
+                  "y": 1097.2723290180593,
+                  "zoom": -1.290978247985204
+                }
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260313123035"
+              "icon": "lucide-layout-dashboard",
+              "title": "BikeMeNow Architecture"
             }
           }
         ]
@@ -182,15 +187,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "39c85f4d022a95d5",
+  "active": "033ae7710fa94f2a",
   "lastOpenFiles": [
+    "Pasted image 20260313135755.png",
+    "Images/Pasted image 20260313123035.png",
     "BikeMeNow Architecture.canvas",
     "Images/Pasted image 20260313124717.png",
     "Images/Pasted image 20260313123344.png",
     "Images/Pasted image 20260313123311.png",
     "Images/Pasted image 20260313123234.png",
     "Images/Pasted image 20260313123204.png",
-    "Images/Pasted image 20260313123035.png",
     "Prototype Solutions.md",
     "Journey Maps & Core flows.canvas",
     "Prototype prompt notes.md",
