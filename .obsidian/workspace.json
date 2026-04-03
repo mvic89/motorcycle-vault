@@ -25,16 +25,11 @@
             "id": "64e67328f4944c74",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "image",
               "state": {
-                "file": "BikeMeNow Architecture.canvas",
-                "viewState": {
-                  "x": 13847.05291000796,
-                  "y": 2933.114887027488,
-                  "zoom": -3.3333333333333335
-                }
+                "file": "Lennart/BikeMeNow Architecture.png"
               },
-              "icon": "lucide-layout-dashboard",
+              "icon": "lucide-image",
               "title": "BikeMeNow Architecture"
             }
           }
@@ -201,20 +196,21 @@
       "bases:Create new base": false
     }
   },
-  "active": "64e67328f4944c74",
+  "active": "39c85f4d022a95d5",
   "lastOpenFiles": [
-    "Pasted image 20260403195313.png",
-    "Pasted image 20260403195141.png",
-    "Pasted image 20260403194959.png",
-    "Pasted image 20260403194757.png",
-    "Pasted image 20260403145445.png",
-    "Pasted image 20260403145315.png",
-    "Pasted image 20260403145109.png",
-    "Pasted image 20260403144905.png",
-    "Images/Pasted image 20260401145301.png",
+    "Lennart",
     "BikeMeNow Architecture.canvas",
-    "Images/Pasted image 20260401160532.png",
-    "Images/Pasted image 20260401160223.png",
+    "Anteckningar inför torsdag 29-1.md",
+    "Lennart/BikeMeNow Architecture.png",
+    "Images/Pasted image 20260403144905.png",
+    "Images/Pasted image 20260403195313.png",
+    "Images/Pasted image 20260403195141.png",
+    "Images/Pasted image 20260403194959.png",
+    "Images/Pasted image 20260403194757.png",
+    "Images/Pasted image 20260403145445.png",
+    "Images/Pasted image 20260403145315.png",
+    "Images/Pasted image 20260403145109.png",
+    "Images/Pasted image 20260401145301.png",
     "Pre-order vs. Purchase Order (PO).md",
     "Mindmaps/Motorcycle World Mindmap.canvas",
     "Mindmaps/DL Software Mindmap.canvas",
@@ -246,7 +242,6 @@
     "Invoice problems when there's no Purchase Order.md",
     "Mindmaps",
     "OEM systems & dealership DMS systems.md",
-    "Purchase list vs. Purchase Order (PO).md",
     "Images",
     "DLsoftware notes",
     "Notes"
