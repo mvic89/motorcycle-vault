@@ -25,12 +25,14 @@
             "id": "64e67328f4944c74",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Lennart/BikeMeNow Architecture.png"
+                "file": "AVA MC Booking Project Timeline.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "BikeMeNow Architecture"
+              "icon": "lucide-file",
+              "title": "AVA MC Booking Project Timeline"
             }
           }
         ],
@@ -196,8 +198,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "39c85f4d022a95d5",
+  "active": "64e67328f4944c74",
   "lastOpenFiles": [
+    "Notes/AVA MC Seller Notes Tuesday 13-1.md",
+    "AVA MC Booking Project Timeline.md",
     "Lennart",
     "BikeMeNow Architecture.canvas",
     "Anteckningar inför torsdag 29-1.md",
@@ -230,7 +234,6 @@
     "Notes/AVA MC Seller Notes 28-1.md",
     "Notes/AVA MC Seller Notes Thursday 15-1.md",
     "Insurance, registration, warranty structure part 2.md",
-    "Notes/AVA MC Seller Notes Tuesday 13-1.md",
     "Notes/AVA MC Försäljningsanteckningar Tisdag 13-1.md",
     "Insurance, registration, warranty structure part 3 (Structured standard MC sales process).md",
     "Mindmaps/AVA MC Mindmap.canvas",
