@@ -1,5 +1,6 @@
 {
 	"nodes":[
+		{"id":"0a179edd66404f6f","x":620,"y":-280,"width":2610,"height":1700,"type":"group","label":"Old Pipeline Structure"},
 		{"id":"f2f3a8496283da8f","x":-240,"y":-80,"width":250,"height":420,"type":"text","text":"Gunnars wants the customer to verify themselves with BankID or such in order to get an offer sent. The reason is because there's so many potential customers that waste their time by asking questions and making AVA do admin work which doesn't result in a potential purchase. So by verifying themselves AVA can weed out the unserious potential customers and focus on the serious ones. "},
 		{"id":"8e06a5994f9172e6","x":-240,"y":-200,"width":250,"height":60,"type":"text","text":"Pipeline should have test drives as well included"},
 		{"id":"2312dd9bcbc15c51","x":180,"y":-200,"width":250,"height":540,"type":"text","text":"There's going to be a Test driving appliation where the customer can book a test drive by using BankID. \n\nBy using Bilvision we can verify that the customer who books a test drive has the correct drivers license for motorcycles.\n\nWe're going to have QR Codes for the bikes so that you can scan them for test drives as well\n\nWe need to connect the test drives to the pipeline so that AVA can sign off and approve the test drive."},
@@ -29,7 +30,20 @@
 		{"id":"e8ed185c0a875234","x":1800,"y":889,"width":250,"height":60,"type":"text","text":"Sign (test ride)"},
 		{"id":"670f07a203ba2ab4","x":2180,"y":729,"width":250,"height":381,"type":"text","text":"Test ride document with:\n- Customer info\n- Vehicle\n- Terms of condition\n- Customer signation (already signed)\n- Sellers signation (Which is is needed\n- Complete document (which information) (shows after both parties have signed)"},
 		{"id":"d9901e6707523389","x":1800,"y":1340,"width":250,"height":60,"type":"text","text":"Show (test ride)"},
-		{"id":"96e1ad30e940bfba","x":2180,"y":1340,"width":250,"height":60,"type":"text","text":"Shows the completely signed document"}
+		{"id":"96e1ad30e940bfba","x":2180,"y":1340,"width":250,"height":60,"type":"text","text":"Shows the completely signed document"},
+		{"id":"c68bd9a64ba4d6b1","x":640,"y":1760,"width":250,"height":60,"type":"text","text":"New Lead"},
+		{"id":"ae2335c0b6a66160","x":555,"y":1915,"width":421,"height":225,"type":"text","text":"Entry: Walk-in, Blocket/Website inquiry, Email\n\nActions: Log contact method, assign salesperson, note bike interest\nOverdue: 2 days (contact them fast)"},
+		{"id":"83f4a96ae3c366fd","x":1330,"y":1760,"width":250,"height":60,"type":"text","text":"Contacted Lead"},
+		{"id":"c64908ff4ccc4912","x":1190,"y":1915,"width":531,"height":385,"type":"text","text":"Entry: First contact made, customer is in conversation\nActions: Answer questions (price, condition, history, delivery time),\n         Book test ride (activity), Log calls/emails\nOverdue: 3 days\n\n---\n↕ (optional activity within contacted stage)\n  TEST RIDE EVENT\n  - Scheduled: date/time, assigned staff\n  - Completed: logged as activity with outcome note\n  - Status: scheduled / completed / no-show\n  - No-show → flag lead as cold, add to follow-up reminder"},
+		{"id":"3048e651ecc387f3","x":1986,"y":1758,"width":250,"height":60,"type":"text","text":"Offer"},
+		{"id":"daf44450bb150103","x":1805,"y":1915,"width":613,"height":225,"type":"text","text":"Entry: Customer has shown serious interest, offer is being prepared\nActions: Create offer document (bike costs, parts, trade-in, financing ballpark),\n         Send offer to customer (email/PDF),\n         Track: viewed / accepted / declined\n         Customer Q&A within lead activity log\nOverdue: 5 days since offer sent with no response\n\n↕ Offer accepted → advance to negotiating"},
+		{"id":"a76f07b7a06f36f7","x":2686,"y":1760,"width":250,"height":60,"type":"text","text":"Negotiating Lead"},
+		{"id":"dfc8f0130ac7ec47","x":2575,"y":1915,"width":473,"height":226,"type":"text","text":"Entry: Customer accepted offer — purchase agreement being drafted\nActions: Draft agreement (existing flow works well here),\n         BankID signing (customer + dealer — this is the right place for BankID),\n         Finalize trade-in credit, accessories, delivery date\nOverdue: 7 days"},
+		{"id":"1f87191fd664eab4","x":3364,"y":2000,"width":250,"height":60,"type":"text","text":"Purchase Agreement signed"},
+		{"id":"12443a69f9d39791","x":3853,"y":1826,"width":250,"height":60,"type":"text","text":"Pending Payment"},
+		{"id":"e05d7b92a0bce68a","x":3737,"y":2000,"width":483,"height":143,"type":"text","text":"Entry: Agreement signed — awaiting payment\nActions: Confirm payment method, collect payment (existing flow works well)\nOverdue: 14 days (red flag)"},
+		{"id":"f2410286a0853754","x":4407,"y":1827,"width":250,"height":60,"type":"text","text":"Closed Lead"},
+		{"id":"818b59c7bde49903","x":4306,"y":1980,"width":453,"height":101,"type":"text","text":"Entry: Payment confirmed\nActions: Post-sale cascade (existing flow works well here)"}
 	],
 	"edges":[
 		{"id":"84cf85ccbf345a6c","fromNode":"6fd513bfc3dc467f","fromSide":"bottom","toNode":"8267c7409373a745","toSide":"top"},
@@ -55,6 +69,18 @@
 		{"id":"8bac0b4f15d52351","fromNode":"3676cece91ea7f67","fromSide":"right","toNode":"e8ed185c0a875234","toSide":"left"},
 		{"id":"6873fc03623d735b","fromNode":"3676cece91ea7f67","fromSide":"right","toNode":"d9901e6707523389","toSide":"left"},
 		{"id":"5ee3db79ec0eeaaa","fromNode":"e8ed185c0a875234","fromSide":"right","toNode":"670f07a203ba2ab4","toSide":"left"},
-		{"id":"2d326d077eb87253","fromNode":"d9901e6707523389","fromSide":"right","toNode":"96e1ad30e940bfba","toSide":"left"}
+		{"id":"2d326d077eb87253","fromNode":"d9901e6707523389","fromSide":"right","toNode":"96e1ad30e940bfba","toSide":"left"},
+		{"id":"afb843b7bdfcce13","fromNode":"c68bd9a64ba4d6b1","fromSide":"bottom","toNode":"ae2335c0b6a66160","toSide":"top"},
+		{"id":"0f8dab065fe3903a","fromNode":"c68bd9a64ba4d6b1","fromSide":"right","toNode":"83f4a96ae3c366fd","toSide":"left"},
+		{"id":"be6c10a089093972","fromNode":"83f4a96ae3c366fd","fromSide":"bottom","toNode":"c64908ff4ccc4912","toSide":"top"},
+		{"id":"07243ae91f5f6e44","fromNode":"83f4a96ae3c366fd","fromSide":"right","toNode":"3048e651ecc387f3","toSide":"left"},
+		{"id":"34bd4521d44a4a97","fromNode":"3048e651ecc387f3","fromSide":"bottom","toNode":"daf44450bb150103","toSide":"top"},
+		{"id":"5246ec3c20e317d5","fromNode":"3048e651ecc387f3","fromSide":"right","toNode":"a76f07b7a06f36f7","toSide":"left"},
+		{"id":"ca7397f73b612c29","fromNode":"a76f07b7a06f36f7","fromSide":"bottom","toNode":"dfc8f0130ac7ec47","toSide":"top"},
+		{"id":"137e5a5952f90a1f","fromNode":"dfc8f0130ac7ec47","fromSide":"right","toNode":"1f87191fd664eab4","toSide":"left"},
+		{"id":"d4de5ec10874be18","fromNode":"1f87191fd664eab4","fromSide":"right","toNode":"12443a69f9d39791","toSide":"left"},
+		{"id":"2650db3f9190ad14","fromNode":"12443a69f9d39791","fromSide":"bottom","toNode":"e05d7b92a0bce68a","toSide":"top"},
+		{"id":"a0eb4ff93da3c7b2","fromNode":"12443a69f9d39791","fromSide":"right","toNode":"f2410286a0853754","toSide":"left"},
+		{"id":"af4578d975761cfc","fromNode":"f2410286a0853754","fromSide":"bottom","toNode":"818b59c7bde49903","toSide":"top"}
 	]
 }

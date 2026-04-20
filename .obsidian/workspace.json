@@ -6,6 +6,7 @@
       {
         "id": "c51cd3454ca80f91",
         "type": "tabs",
+        "dimension": 48.301886792452834,
         "children": [
           {
             "id": "033ae7710fa94f2a",
@@ -25,17 +26,31 @@
             "id": "1621e82345a2e6b0",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/AVA MC Seller Notes Thursday 16-4.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AVA MC Seller Notes Thursday 16-4"
+            }
+          },
+          {
+            "id": "80e9cf3e84b0636e",
+            "type": "leaf",
+            "state": {
               "type": "canvas",
               "state": {
-                "file": "Journey Maps & Core flows.canvas",
+                "file": "BikeMeNow Architecture.canvas",
                 "viewState": {
-                  "x": -3528.4517446959862,
-                  "y": 279.6028794030135,
-                  "zoom": -0.8826067558776476
+                  "x": 8520.898096949446,
+                  "y": 3418.9954503067606,
+                  "zoom": 0.33333333333333365
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Journey Maps & Core flows"
+              "title": "BikeMeNow Architecture"
             }
           }
         ],
@@ -44,6 +59,7 @@
       {
         "id": "a100bc086918345d",
         "type": "tabs",
+        "dimension": 51.698113207547166,
         "children": [
           {
             "id": "64e67328f4944c74",
@@ -53,9 +69,9 @@
               "state": {
                 "file": "Pipeline Jouney Map.canvas",
                 "viewState": {
-                  "x": 1008.5472785197547,
-                  "y": 786.4279524786073,
-                  "zoom": -1.6666666666666665
+                  "x": 1144.302586471531,
+                  "y": 230.40625876647982,
+                  "zoom": -0.6666666666666667
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -224,17 +240,23 @@
       "bases:Create new base": false
     }
   },
-  "active": "64e67328f4944c74",
+  "active": "1621e82345a2e6b0",
   "lastOpenFiles": [
-    "Journey Maps & Core flows.canvas",
-    "Pipeline Jouney Map.canvas",
-    "Prototype prompt notes.md",
-    "Prototype Solutions.md",
-    "Github Notes.md",
-    "AVA MC Booking Project Timeline.md",
-    "Notes/AVA MC Seller Notes Tuesday 13-1.md",
-    "Lennart",
+    "Notes/AVA MC Seller Notes Thursday 12-2.md",
     "BikeMeNow Architecture.canvas",
+    "Pre-order vs. Purchase Order (PO).md",
+    "Notes/AVA MC Seller Notes Thursday 16-4.md",
+    "Notes/AVA MC Seller Notes Tuesday 13-1.md",
+    "Notes/AVA MC Seller Notes Thursday 15-1.md",
+    "Pipeline Offer & Testride Notes.md",
+    "Pipeline Jouney Map.canvas",
+    "Prototype Solutions.md",
+    "Journey Maps & Core flows.canvas",
+    "AVA MC Booking Project Timeline.md",
+    "Andrews Figma Design Structure.canvas",
+    "Prototype prompt notes.md",
+    "Github Notes.md",
+    "Lennart",
     "Anteckningar inför torsdag 29-1.md",
     "Lennart/BikeMeNow Architecture.png",
     "Images/Pasted image 20260403144905.png",
@@ -246,21 +268,17 @@
     "Images/Pasted image 20260403145315.png",
     "Images/Pasted image 20260403145109.png",
     "Images/Pasted image 20260401145301.png",
-    "Pre-order vs. Purchase Order (PO).md",
     "Mindmaps/Motorcycle World Mindmap.canvas",
     "Mindmaps/DL Software Mindmap.canvas",
     "DLsoftware notes/Tax-living vs. Tax-Dead Motorcycles..md",
     "DLsoftware notes/DL Software AVA Interview notes.md",
     "Notes/AVA MC Seller Notes Final Draft.md",
-    "Notes/AVA MC Seller Notes Thursday 12-2.md",
     "Notes/AVA MC Anteckningar 28-1.md",
-    "Andrews Figma Design Structure.canvas",
     "System Requirements & Pain points.canvas",
     "Insurance, registration, warranty structure part 1.md",
     "Insurance Quotes, Policy terms and Pre-approved customer.md",
     "Anteckningar inför onsdag 25-2.md",
     "Notes/AVA MC Seller Notes 28-1.md",
-    "Notes/AVA MC Seller Notes Thursday 15-1.md",
     "Insurance, registration, warranty structure part 2.md",
     "Notes/AVA MC Försäljningsanteckningar Tisdag 13-1.md",
     "Insurance, registration, warranty structure part 3 (Structured standard MC sales process).md",
@@ -268,8 +286,6 @@
     "Mindmaps/AVA MC Notes.md",
     "Lennarts Vision for our software to the motorcycle industry.md",
     "Differences between Pre-orders & Purchase Orders Part 2.md",
-    "Differences between Pre-orders & Purchase Orders Part 1.md",
-    "Invoice problems when there's no Purchase Order.md",
     "Mindmaps",
     "Images",
     "DLsoftware notes",
