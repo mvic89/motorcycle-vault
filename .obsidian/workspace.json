@@ -4,67 +4,46 @@
     "type": "split",
     "children": [
       {
-        "id": "c51cd3454ca80f91",
+        "id": "a100bc086918345d",
         "type": "tabs",
-        "dimension": 47.02875399361022,
+        "dimension": 75.4316069057105,
         "children": [
           {
-            "id": "80e9cf3e84b0636e",
+            "id": "64e67328f4944c74",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "System Requirements & Pain points.canvas",
-                "viewState": {
-                  "x": -397.84488770276533,
-                  "y": 419.6996997811041,
-                  "zoom": -0.5912446328808469
-                }
+                "file": "LIA Rapport.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "System Requirements & Pain points"
+              "icon": "lucide-file",
+              "title": "LIA Rapport"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "cbdc97f7f789eb6b",
+        "type": "tabs",
+        "dimension": 24.568393094289508,
+        "children": [
           {
-            "id": "4700dc54eeb43d9e",
+            "id": "b0ec4f3a35e2edee",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Journey Maps & Core flows.canvas",
                 "viewState": {
-                  "x": -3676.216067426256,
-                  "y": 56.390125801334165,
-                  "zoom": -0.25017463165009873
+                  "x": -3143.682790832201,
+                  "y": 201.43730897888543,
+                  "zoom": -0.8838971997018499
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "Journey Maps & Core flows"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "a100bc086918345d",
-        "type": "tabs",
-        "dimension": 52.97124600638977,
-        "children": [
-          {
-            "id": "64e67328f4944c74",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Pipeline Jouney Map.canvas",
-                "viewState": {
-                  "x": 952.6837859154566,
-                  "y": 4248.687748614549,
-                  "zoom": -0.6666666666666667
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Pipeline Jouney Map"
             }
           }
         ]
@@ -124,8 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 310.5,
-    "collapsed": true
+    "width": 369.5
   },
   "right": {
     "id": "1b9318455e0410ab",
@@ -232,50 +210,52 @@
   },
   "active": "64e67328f4944c74",
   "lastOpenFiles": [
+    "Screenshot_20260519_230123_DuckDuckGo.jpg",
+    "Screenshot_20260519_230105_DuckDuckGo.jpg",
+    "Screenshot_20260519_230049_DuckDuckGo.jpg",
+    "Screenshot_20260519_230014_DuckDuckGo.jpg",
+    "Screenshot_20260519_225917_DuckDuckGo.jpg",
+    "Screenshot_20260519_225905_DuckDuckGo.jpg",
+    "Pasted image 20260519231013.png",
+    "Pasted image 20260519225941.png",
+    "Pasted image 20260519225847.png",
     "Journey Maps & Core flows.canvas",
-    "Pipeline Jouney Map.canvas",
-    "System Requirements & Pain points.canvas",
+    "LIA Rapport.md",
     "BikeMeNow Architecture.canvas",
-    "Pre-order vs. Purchase Order (PO).md",
-    "Notes/AVA MC Seller Notes Thursday 16-4.md",
-    "Notes/AVA MC Seller Notes Thursday 12-2.md",
-    "Notes/AVA MC Seller Notes Tuesday 13-1.md",
-    "Notes/AVA MC Seller Notes Thursday 15-1.md",
-    "Pipeline Offer & Testride Notes.md",
-    "Prototype Solutions.md",
     "AVA MC Booking Project Timeline.md",
+    "Pipeline Jouney Map.canvas",
+    "Pipeline Offer & Testride Notes.md",
+    "DLsoftware notes/DL Software AVA Interview notes.md",
+    "Notes/AVA MC Seller Notes Thursday 16-4.md",
+    "Pasted image 20260519202540.png",
+    "Mindmaps/AVA MC Mindmap.canvas",
+    "Mindmaps/AVA MC Notes.md",
+    "Lennart/BikeMeNow Architecture.png",
+    "Notes/AVA MC Anteckningar 28-1.md",
+    "Notes/AVA MC Seller Notes Final Draft.md",
+    "Notes/AVA MC Seller Notes Thursday 12-2.md",
+    "Notes/AVA MC Seller Notes Thursday 15-1.md",
+    "Notes/AVA MC Seller Notes Tuesday 13-1.md",
+    "Notes/AVA MC Seller Notes 28-1.md",
+    "Notes/AVA MC Försäljningsanteckningar Tisdag 13-1.md",
+    "Test Ride Application.canvas",
+    "System Requirements & Pain points.canvas",
+    "Pre-order vs. Purchase Order (PO).md",
+    "Prototype Solutions.md",
     "Andrews Figma Design Structure.canvas",
     "Prototype prompt notes.md",
     "Github Notes.md",
     "Lennart",
     "Anteckningar inför torsdag 29-1.md",
-    "Lennart/BikeMeNow Architecture.png",
-    "Images/Pasted image 20260403144905.png",
-    "Images/Pasted image 20260403195313.png",
-    "Images/Pasted image 20260403195141.png",
-    "Images/Pasted image 20260403194959.png",
-    "Images/Pasted image 20260403194757.png",
-    "Images/Pasted image 20260403145445.png",
-    "Images/Pasted image 20260403145315.png",
-    "Images/Pasted image 20260403145109.png",
-    "Images/Pasted image 20260401145301.png",
     "Mindmaps/Motorcycle World Mindmap.canvas",
     "Mindmaps/DL Software Mindmap.canvas",
     "DLsoftware notes/Tax-living vs. Tax-Dead Motorcycles..md",
-    "DLsoftware notes/DL Software AVA Interview notes.md",
-    "Notes/AVA MC Seller Notes Final Draft.md",
-    "Notes/AVA MC Anteckningar 28-1.md",
     "Insurance, registration, warranty structure part 1.md",
     "Insurance Quotes, Policy terms and Pre-approved customer.md",
     "Anteckningar inför onsdag 25-2.md",
-    "Notes/AVA MC Seller Notes 28-1.md",
     "Insurance, registration, warranty structure part 2.md",
-    "Notes/AVA MC Försäljningsanteckningar Tisdag 13-1.md",
     "Insurance, registration, warranty structure part 3 (Structured standard MC sales process).md",
-    "Mindmaps/AVA MC Mindmap.canvas",
-    "Mindmaps/AVA MC Notes.md",
     "Lennarts Vision for our software to the motorcycle industry.md",
-    "Differences between Pre-orders & Purchase Orders Part 2.md",
     "Mindmaps",
     "Images",
     "DLsoftware notes",
